@@ -1,0 +1,12 @@
+pwd- printing working directory
+It tells you what your current or present directory is.
+
+ls-list the contents of a directory.
+
+cd-change Directories-move to another directory.
+
+cd..- back to directory.
+
+file-obtain information about what type of file or directory is.
+
+ls -a list the contentts of a dirctory,including hidden files.
